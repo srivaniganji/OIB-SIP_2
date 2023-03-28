@@ -1,2 +1,2 @@
 # OIBGRIP_2
-Portfolio 
+Personal Portfolio 
